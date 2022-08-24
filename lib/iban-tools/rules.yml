@@ -103,7 +103,7 @@
 'EG':
   # Egypt
   length: 29
-  bban_pattern: '\d{27}' # specification not clear
+  bban_pattern: '\d{25}' # specification not clear
 
 'EE':
   # Estonia
